@@ -38,8 +38,3 @@ The frontend is built using **React.js & Tailwind CSS**, and the backend is powe
 - Clean MVC architecture
 - Separate frontend & backend
 
----
-
-## 📂 Project Structure
-
-### Frontend (React)
